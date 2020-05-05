@@ -15,7 +15,7 @@ public class CheckingAccount extends Account {
     /**
      * 
      */
-    private dounle overdraftAmount;
+    private double overdraftAmount;
 
 
     /**

@@ -15,12 +15,12 @@ public class Bank {
     /**
      * 
      */
-    private Customer customers;
+    private Customer customers[];
 
     /**
      * 
      */
-    private Manager menagers;
+    private Manager menagers[];
 
     /**
      * 
